@@ -1,8 +1,9 @@
 # UCI_sentiment_analysis
 
 Sentiment analysis using custom word embeddings and LSTM on the UCI review dataset.
+The dataset consists of reviews posted from three websites- Amazon, imdb and yelp.
 
-The dataset consists of reviews posted from three websites- Amazon, imdb and yelp
+UCI Datasource: https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
 
 We then implement LSTM based network to achieve the followign accuracies:
 
